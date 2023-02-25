@@ -18,14 +18,15 @@ in this 5th assignment  i started witha given starter code
 ## usage
 the website contain HTML, CSS and JavaScript , Jquerey and has been pushed to github repostiry.
 
-![Getting Started])
+![Getting Started](./Develop/Screenshot%202023-02-25%20160852.png)
 
 ## deployed link
 
+https://melhelow.github.io/work-day-scheduler/
 
 ## github 
 
-
+https://github.com/melhelow/work-day-scheduler
 
 ## credits
 
