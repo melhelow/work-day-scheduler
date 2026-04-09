@@ -18,7 +18,7 @@ in this 5th assignment  i started witha given starter code
 ## usage
 the website contain HTML, CSS and JavaScript , Jquerey and has been pushed to github repostiry.
 
-![Getting Started](./Develop/Screenshot%202023-02-25%20160852.png)
+![Preview](./Develop/preview.png)
 
 ## deployed link
 
